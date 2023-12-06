@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CastleRumble",
+			"Path": "..\\Source\\CastleRumble.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CastleRumbleEditor",
+			"Path": "..\\Source\\CastleRumbleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

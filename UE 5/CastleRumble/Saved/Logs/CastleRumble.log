@@ -1477,3 +1477,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.06-10.36.50:652][569]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/styec/Desktop/Verona/UnrealEngine_Project/UE 5/CastleRumble/Content/Developers/styec/Collections/' because it could not be accessed. Aborting watch request...
 [2023.12.06-10.37.06:699][188]LogDerivedDataCache: C:/Users/styec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:29.289 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12825 files in 14402 folders with total size 997 MiB.
 [2023.12.06-10.39.15:611][648]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.12.06-10.45.40:935][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-10.45.40:994][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.12.06-10.45.41:004][998]LogSavePackage: Moving output files for package: /Game/Level/Map_1
+[2023.12.06-10.45.41:004][998]LogSavePackage: Moving '../../../../../../Users/styec/Desktop/Verona/UnrealEngine_Project/UE 5/CastleRumble/Saved/Map_10A3CA9C641ED86A74FE6EBB57813C271.tmp' to '../../../../../../Users/styec/Desktop/Verona/UnrealEngine_Project/UE 5/CastleRumble/Content/Level/Map_1.umap'
+[2023.12.06-10.45.41:011][998]LogFileHelpers: Saving map 'Map_1' took 0.042
+[2023.12.06-10.45.41:018][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.40 sec)
+[2023.12.06-10.45.41:020][998]AssetCheck: New page: Asset Save: Map_1
+[2023.12.06-10.45.41:020][998]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Map_1.Map_1
